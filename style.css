@@ -1,0 +1,181 @@
+.container{
+    font-family: 'Merriweather', serif;
+}
+
+
+.btn1{
+    background-color: #e30a5e;
+    color: white;
+    border-color: #e72f71;
+    border-radius: 8px;
+    height: 3.5em;
+    width: 16em;
+    font-family: 'Archivo';
+    font-size: larger;
+    /* font-size: 1rem!important; */
+}
+
+
+  /* .smaller{
+    position: absolute;
+    
+    background-color: white;
+    bottom:8em;
+    left: 50%;
+    text-align:center;
+    color:black;
+    transform: translate(-50%);
+    width: 40%;
+   
+  } */
+  .image{
+    display: flex;
+    border-radius: 10px;
+    position: relative;
+    align-items: center;
+    background-image: url(https://joinclubsoda.com/wp-content/uploads/2020/12/Welcome-to-Club-Soda-drink-mindfully-and-live-well.jpg);
+    background-color: rgba(0, 0, 0, .5);
+    /* width: 150vh; */
+    height: 60vh;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    justify-content:end ;
+
+}
+.h1{
+    padding-top: 5px;
+    font-size: 8vw;
+    font-weight:bolder;
+    display: flex;
+    justify-content: center;
+    bottom: 0;
+    margin: 0 !important;
+    width: 55%;
+    height: 30%;
+    background-color: white;
+}
+  
+
+
+
+.how-soda{
+    font-weight: 700;
+    line-height: 1.3em;
+    margin: 0.8em 0 0.8em 0;   /*top right bottom left */
+    font-family: 'Archivo', sans-serif;
+    color: #222;
+}
+.dis{
+    font-family: 'Merriweather', serif;
+    font-size: 14px;
+    color: #756F84;
+    line-height: 1.8em;
+    font-weight: 100;
+}
+.footer{
+    background-color: #465f63;
+    color: white;
+}
+.icons{
+    padding-top: 4em;
+   
+    
+}
+.btn2{
+    text-decoration: none;
+
+    background-color: #e30a5e;
+    color: white;
+    border-radius: 5px;
+    height: 3em;
+    width: 35em;  
+}
+
+.btn3{
+    text-decoration: none;
+    background-color: #e30a5e;
+    color: white;
+    border-color: #e72f71;
+    border-radius: 8px;
+    height: 3.5em;
+    width: 16em;
+    font-family: 'Archivo';
+    font-size: larger;
+}
+.icn{
+    padding-left: 1em;
+    
+    
+}
+.footer{
+    font-family: 'Merriweather', serif;
+    font-size: 17px;
+    line-height: 1.8em;
+    margin-top: 3em;
+    
+}
+.w3-sidebar{
+    font-family: 'Merriweather', serif;
+    line-height: 1.8em;
+    font-weight: 100;
+    color: #e30a5e;
+    font-size: 20px;
+
+}
+.sidebtn{
+    background-color: white;
+    border: none;
+}
+.inspiration{
+    background-color: #e0e0e0;
+}
+
+.ins-head{
+font-size: 30px;
+font-weight: 700;
+line-height: 1.3em;
+margin: 0.8em 0 0.8em 0em;
+font-family: 'Archivo', sans-serif;
+color: #222;
+}
+.container{
+    max-width: 1070px;
+}
+.sub-headding{
+font-family: 'Archivo', sans-serif;
+color: #222;
+font-weight: 700;
+font-size: 46px;
+letter-spacing: -1px;
+}
+.sub-dis{
+    font-size: 16px;
+    font-family: 'Merriweather', serif;
+    color: #756F84;
+    font-weight: 100;
+    font-size: 20px;
+
+}
+.form-label{
+    font-family: "Merriweather","Lucida Grande",serif;
+    font-size: 18px;
+    color: #444444;
+    font-weight: bold;
+}
+.form-check-label{
+    font-size: 20px;
+    color: #756F84;
+}
+.btn-sus{
+    margin-top: 1em;
+    width: 9em;
+    height: 3em;
+}
+
+.card-titlecrdtitle{
+color: #e30a5e;
+}
+
